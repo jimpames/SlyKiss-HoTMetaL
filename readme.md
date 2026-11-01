@@ -6,6 +6,11 @@
 
 ---
 
+demo video
+
+https://youtu.be/_rFV6H_ylgo?si=TnXaNOq2C2Lwp8ET
+
+
 ## Abstract
 
 Modern IT infrastructure management is defined by a widening architectural paradox: while administrative interfaces for enterprise firewalls, hypervisors, and cloud infrastructure have migrated exclusively to rich, JavaScript-heavy web applications, systems administration has simultaneously shifted toward headless, automated, and text-only execution environments—such as Datto RMM PowerShell component jobs. 
