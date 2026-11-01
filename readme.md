@@ -1,5 +1,7 @@
 # SlyKiss HoTMetaL: Architectural Whitepaper and Technical Reference
 
+“SlyKiss HoTMetaL: Text-Mode Chromium Automation for Network Engineers.”
+
 **Author:** Jim Ames, N2NHU Labs (Newburgh, NY, USA)  
 **Collaborators:** Claude, Grok, DeepSeek, and Google Gemini  
 **Product Version:** 6.2  
