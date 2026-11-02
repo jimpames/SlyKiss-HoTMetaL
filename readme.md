@@ -1,5 +1,9 @@
 # SlyKiss HoTMetaL: Architectural Whitepaper and Technical Reference
 
+
+https://n2nhulabs.store/clibrowser
+
+
 “SlyKiss HoTMetaL: Text-Mode Chromium Automation for Network Engineers.”
 
 **Author:** Jim Ames, N2NHU Labs (Newburgh, NY, USA)  
